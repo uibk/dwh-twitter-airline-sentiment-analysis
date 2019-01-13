@@ -34,5 +34,5 @@ jupyter notebook
 
 ## Attributions
 - [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) - Analyze how travelers in February 2015 expressed their feelings on Twitter
-- Based on the [work](https://github.com/martinpella/twitter-airlines) of data scientist [Martín Pellarolo](https://github.com/martinpella)
+- Based on an [article](https://medium.com/@martinpella/customers-tweets-classification-41cdca4e2de) from the data scientist [Martín Pellarolo](https://github.com/martinpella)
 - [Crowdflower](http://www.crowdflower.com/data-for-everyone/)
