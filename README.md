@@ -3,6 +3,10 @@ This case example was done within the scope of the seminar paper _"Social Media 
 
 The case example was developed using [python](https://www.python.org/) and [jupyter](https://jupyter.org/) along with several python libraries that can be found in [`requirements.txt`](/requirements.txt) file. The main analysis can be found in the [`twitter-airline-sentiment-analysis.ipynb`](/twitter-airline-sentiment-analysis.ipynb) notebook.
 
+**Update 21-01-2019**
+
+The [`twitter-airline-sentiment-analysis-vader-comparison.ipynb`](/twitter-airline-sentiment-analysis-vader-comparison.ipynb) notebook was included to show a comparison of human verified sentiment classification to [VADER classification](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf).
+
 ## Authors
 - Johannes Ebster, [3bst0r](https://github.com/3bst0r)
 - Daniel Egger, [dnlggr](https://github.com/dnlggr)
